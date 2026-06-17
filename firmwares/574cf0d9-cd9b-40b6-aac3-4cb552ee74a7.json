@@ -1,0 +1,10 @@
+{
+  "uuid": "574cf0d9-cd9b-40b6-aac3-4cb552ee74a7",
+  "name": "WiFi Modem Emulator",
+  "version": "1.0.0",
+  "author": "Developer",
+  "description": "Hayes-compatible WiFi modem emulator using Pico W CYW43439",
+  "target": "atarist",
+  "min_firmware": "2.0.0",
+  "category": "network"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "ef31f214-d31b-4db0-ab81-80c68b83e505",
+    "name": "NAS Sync",
+    "description": "Bidirectional sync SD card <-> Synology NAS",
+    "image": "https://placehold.co/256x256/png",
+    "tags": ["sync", "nas", "network"],
+    "devices": ["ST", "STE", "MegaST", "MegaSTE"],
+    "binary": "https://192.168.1.36:5001/ef31f214-d31b-4db0-ab81-80c68b83e505-v1.2.1.uf2",
+    "md5": "b930437bab9c8c37605f4d1101cd261b",
+    "version": "v1.2.1"
+  }
+]
