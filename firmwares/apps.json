@@ -17,7 +17,7 @@
 				"MegaST",
 				"MegaSTE"
 			],
-			"binary": "https://github.com/MrYoIt/sidecartridge-firmwares/blob/main/firmwares/574cf0d9-cd9b-40b6-aac3-4cb552ee74a7-v1.0.0.uf2",
+			"binary": "https://raw.githubusercontent.com/MrYoIt/sidecartridge-firmwares/main/firmwares/574cf0d9-cd9b-40b6-aac3-4cb552ee74a7-v1.0.0.uf2",
 			"md5": "0c08486a9ddbb0f2982c45fc09a5eed5",
 			"version": "v1.0.0"
 		},
@@ -38,7 +38,7 @@
 				"MegaST",
 				"MegaSTE"
 			],
-			"binary": "https://github.com/MrYoIt/sidecartridge-firmwares/blob/main/firmwares/ef31f214-d31b-4db0-ab81-80c68b83e505-v1.2.1.uf2",
+			"binary": "https://raw.githubusercontent.com/MrYoIt/sidecartridge-firmwares/main/firmwares/ef31f214-d31b-4db0-ab81-80c68b83e505-v1.2.1.uf2",
 			"md5": "b930437bab9c8c37605f4d1101cd261b",
 			"version": "v1.2.1"
 		},
