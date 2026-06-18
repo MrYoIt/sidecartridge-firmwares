@@ -5,6 +5,7 @@
   "author": "Developer",
   "description": "Hayes-compatible WiFi modem emulator using Pico W CYW43439",
   "target": "atarist",
+  "binary": "https://mryoit.github.io/sidecartridge-firmwares/574cf0d9-cd9b-40b6-aac3-4cb552ee74a7-v1.0.0.uf2",
   "min_firmware": "2.0.0",
   "category": "network"
 }
