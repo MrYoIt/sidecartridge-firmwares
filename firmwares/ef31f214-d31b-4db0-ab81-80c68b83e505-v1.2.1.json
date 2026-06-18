@@ -7,7 +7,7 @@
     "tags": ["sync", "nas", "network"],
     "devices": ["ST", "STE", "MegaST", "MegaSTE"],
     "binary": "https://mryoit.github.io/sidecartridge-firmwares/ef31f214-d31b-4db0-ab81-80c68b83e505-v1.2.1.uf2",
-    "md5": "b930437bab9c8c37605f4d1101cd261b",
+    "md5": "a48ff59539f17016eb82400bced35c41",
     "version": "v1.2.1"
   }
 ]
